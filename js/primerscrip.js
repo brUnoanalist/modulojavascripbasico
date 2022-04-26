@@ -16,7 +16,7 @@ var respuesta = prompt("ingrese su edad");
 var dias_anios = respuesta * 365
 
 
-alert("su edad actual es: " + respuesta)
+alert("su edad actual es : " + respuesta)
 alert("los dias de su edad es " + dias_anios)
 alert("Necesitaras  " + snak_restantes + " snack al llegar a los  " + edadmax + "  anios");
 alert("El dinero gastado sera: " + dinero_total);
