@@ -2,7 +2,7 @@ var edad = 30;
 const edadmax = 70;
 var snack = "Mantecol";
 const snack_dia = 2;
-const precio_snack = 200;
+const precio_snack = 250;
 
 
 var snack_anio = 365 * 2;
