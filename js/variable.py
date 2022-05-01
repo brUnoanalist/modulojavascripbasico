@@ -1,14 +1,10 @@
-i = 1
-while i <= 100:
-    
-    i += 1
-    
-    if i%3==0 and i%5==0:
-        print(i,"busfus")
-    elif i%3==0:
-        print(i,"fis")
-    elif i%5==0:
-        print(i,"bus")
-print("Programa terminado")
+def contarDeA_n(contar_de_a, contar_hasta):
+    dea_ = 2
+    conta = 0
+    while (conta < contar_hasta):
+        conta += contar_de_a
+        print(conta)
+        
+contarDeA_n(2,10)
 
 
