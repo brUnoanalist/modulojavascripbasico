@@ -1,0 +1,15 @@
+.formulario {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.form,
+.button,
+input {
+    display: block;
+    background-color: aquamarine;
+    align-items: center;
+    align-self: center;
+    align-content: space-between;
+}
