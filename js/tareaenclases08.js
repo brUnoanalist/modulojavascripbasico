@@ -11,4 +11,6 @@ boton.addEventListener("click", function() {
     formulario.appendChild(texto)
     formulario.appendChild(agregarTarea);
 
+    
+
 })
